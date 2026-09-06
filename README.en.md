@@ -30,6 +30,10 @@ Copy `build/libs/rampdoor-0.2.1.jar` to the `mods` folder on the server and clie
 
 On Windows, use `./gradlew.bat build`. The included `build-local.ps1` runs the same build and the GameTest suite with this project's local JDK setup.
 
+## License
+
+This project is licensed under **CC BY-NC 4.0**. You may copy, modify, and redistribute it for non-commercial purposes when you credit `RampDoor contributors`, link to the original repository and the license, and identify your changes. Commercial use, sale, and paid distribution are prohibited. See [LICENSE](LICENSE) and the [official legal code](https://creativecommons.org/licenses/by-nc/4.0/legalcode) for the complete terms.
+
 ## Quick start
 
 Commands require OP level 2 or single-player cheats.

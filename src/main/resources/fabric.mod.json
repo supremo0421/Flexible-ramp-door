@@ -5,7 +5,7 @@
   "name": "RampDoor",
   "description": "Small, server-authoritative cargo ramps with real block endpoints.",
   "authors": ["RampDoor contributors"],
-  "license": "MIT",
+  "license": "CC-BY-NC-4.0",
   "environment": "*",
   "accessWidener": "rampdoor.accesswidener",
   "mixins": ["rampdoor.mixins.json"],

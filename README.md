@@ -47,6 +47,10 @@ Java 25 JDK를 `JAVA_HOME`에 설정한 뒤:
 
 Windows PowerShell에서는 `./gradlew.bat build`, 이 PC에서는 프로젝트 전용 JDK를 쓰는 `./build-local.ps1`을 사용합니다.
 
+## 라이선스
+
+이 프로젝트는 **CC BY-NC 4.0**입니다. 출처(`RampDoor contributors`)와 원본 저장소 링크를 남기고 변경 사항을 표시하면 비상업적으로 복사·수정·배포할 수 있습니다. 상업적 이용, 판매, 유료 배포는 허용하지 않습니다. 자세한 조건은 [LICENSE](LICENSE)와 [공식 법적 문서](https://creativecommons.org/licenses/by-nc/4.0/legalcode)를 확인하세요.
+
 ## 빠른 테스트
 
 OP 또는 싱글플레이 치트가 필요합니다. 폭 16 × 길이 22 × 높이 2의 빈 공간이 필요하고, 램프가 내려갈 앞쪽 아래로 약 14블록의 여유가 있어야 합니다.
