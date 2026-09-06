@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "id": "rampdoor",
+  "version": "${version}",
+  "name": "RampDoor",
+  "description": "Small, server-authoritative cargo ramps with real block endpoints.",
+  "authors": ["RampDoor contributors"],
+  "license": "MIT",
+  "environment": "*",
+  "accessWidener": "rampdoor.accesswidener",
+  "mixins": ["rampdoor.mixins.json"],
+  "entrypoints": { "main": ["dev.rampdoor.RampDoorMod"] },
+  "depends": { "fabricloader": ">=0.19.3", "minecraft": "~26.2", "java": ">=25", "fabric-api": "*" }
+}

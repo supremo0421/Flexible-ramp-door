@@ -1,0 +1,1 @@
+{"schemaVersion":1,"id":"rampdoor-tests","version":"1.0.0","name":"RampDoor acceptance tests","environment":"*","entrypoints":{"fabric-gametest":["dev.rampdoor.RampGameTests","dev.rampdoor.RampCoordinateTests"],"main":["dev.rampdoor.RampCrashHarness"]}}
